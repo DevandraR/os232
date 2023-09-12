@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 20 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 15 L87 Breakfast/Lunch/Dinner/Snake
