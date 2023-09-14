@@ -2,6 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 120 L88 Workout/Sport/Exercise/ETC.
+ZCZC W02 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 40 L70 Studying for other courses.
+ZCZC W02 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 45 L12 Assingment #02
 ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 20 L31 VirtualBox: install GNU/Linux, etc.
