@@ -13,4 +13,6 @@ permalink: LINKS/
 [SHA256 Introduction](https://www.youtube.com/watch?v=DMtFhACPnTY) <br>
     Pengenalan algoritma hashing SHA256 
    <hr>
-
+[Tar Crash Course](https://www.youtube.com/watch?v=2iwumBcfd58) <br>
+    Course cara archive folder di linux
+   <hr>
