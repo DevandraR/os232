@@ -11,8 +11,9 @@ permalink: LINKS/
 [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
     Sebagai petunjuk dalam menggunakan command pada git dan github <br>
 [SHA256 Introduction](https://www.youtube.com/watch?v=DMtFhACPnTY) <br>
-    Pengenalan algoritma hashing SHA256 
-   <hr>
+    Pengenalan algoritma hashing SHA256 <br>
 [Tar Crash Course](https://www.youtube.com/watch?v=2iwumBcfd58) <br>
-    Course cara archive folder di linux
-   <hr>
+    Course cara archive folder di linux <br>
+[C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br>
+    Tutorial untuk belajar bahasa C <br>
+    <hr>
