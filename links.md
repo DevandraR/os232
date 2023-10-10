@@ -16,4 +16,6 @@ permalink: LINKS/
     Course cara archive folder di linux <br>
 [C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br>
     Tutorial untuk belajar bahasa C <br>
+[Linux Distro History](https://www.youtube.com/watch?v=ShcR4Zfc6Dw&t=325s) <br>
+    Pengenalan distribution Linux dari masa ke masa <br>
     <hr>
