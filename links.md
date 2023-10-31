@@ -18,4 +18,6 @@ permalink: LINKS/
     Tutorial untuk belajar bahasa C <br>
 [Linux Distro History](https://www.youtube.com/watch?v=ShcR4Zfc6Dw&t=325s) <br>
     Pengenalan distribution Linux dari masa ke masa <br>
+[RSA in Cryptography](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/) <br>
+    Pengenalan algoritma kriptografi RSA <br>
     <hr>
