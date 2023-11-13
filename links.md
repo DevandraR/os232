@@ -20,4 +20,6 @@ permalink: LINKS/
     Pengenalan distribution Linux dari masa ke masa <br>
 [RSA in Cryptography](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/) <br>
     Pengenalan algoritma kriptografi RSA <br>
+[Deadlock In Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
+    Course pengenalan Deadlock pada sistem operasi dan handlingnya <br>
     <hr>
