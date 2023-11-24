@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W09 20 L09 Assignment in General
+ZCZC W09 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 5 L41 TXT/mylog.txt related.
+ZCZC W09 15 L81 Listening: Radio, Music, etc.
+ZCZC W09 120 L70 Studying for other courses.
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 40 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 15 L88 Workout/Sport/Exercise/ETC.
+ZCZC W09 50 L13 Assignment #03
 ZCZC W08 10 L32 YouTube: watching OS related topics, etc.
 ZCZC W08 60 L84 Relax, Rest, Nap, and Sleep
 ZCZC W08 180 L70 Studying for other courses.

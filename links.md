@@ -24,4 +24,6 @@ permalink: LINKS/
     Course pengenalan Deadlock pada sistem operasi dan handlingnya <br>
 [LFS Setup](https://www.youtube.com/watch?v=uggsnHSELos&t=369s) <br>
     Tutorial Setup untuk Linux From Scratch <br>
+[LFS Entering Chroot](https://www.youtube.com/watch?v=y8uAMEK0FVc) <br>
+    Tutorial Chapter 7 pada Linux From Scratch <br>
     <hr>
