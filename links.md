@@ -26,4 +26,6 @@ permalink: LINKS/
     Tutorial Setup untuk Linux From Scratch <br>
 [LFS Entering Chroot](https://www.youtube.com/watch?v=y8uAMEK0FVc) <br>
     Tutorial Chapter 7 pada Linux From Scratch <br>
+[Linux From Scratch 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/index.html) <br>
+    Buku untuk tutorial membuat linux OS dari Scratch <br>
     <hr>
